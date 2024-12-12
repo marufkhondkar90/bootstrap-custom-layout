@@ -1,0 +1,19 @@
+.header, .hero, .body, .bar, .footer{
+  background-color: silver;
+  margin-bottom: 10px;
+}
+
+.box{
+  margin: 10px 0;
+  min-height: 80px;
+  background-color: #9fe2bf;
+  font-size: 30px;
+  color: white;
+}
+
+.red{
+  background-color: olive;
+}
+.five{
+  background-color: salmon;
+}
